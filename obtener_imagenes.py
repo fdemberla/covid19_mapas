@@ -56,6 +56,9 @@ def obtener_archivos(directorio, lista_verificacion):
     return nueva_lista
 
 
+# COMENTARIO PARA MOSTRAR GITHUB
+
+
 def seleccionar_carpetas():
 
     # Obtener lista de carpetas
